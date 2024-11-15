@@ -51,9 +51,12 @@ Ensure you have the following installed:
    ```bash
    pip install -r requirements.txt
    ```
+4. Accessing API keys:
+   - Apply for your DVLA API from [api.gov.uk](https://developer-portal.driver-vehicle-licensing.api.gov.uk/apis/vehicle-enquiry-service/vehicle-enquiry-service-description.html)
+   - Get the Plate Recognizer API key from [platerecognizer.com](https://platerecognizer.com/)
 4. Set up API keys:
    - Replace the placeholder `PLATE_RECOGNIZER_API_KEY` with your Plate Recognizer API key.
-   - Replace the placeholder `x-api-key` in `fetch_car_details` function with your DVLA API key.
+   - Replace the placeholder `ENTER_DVLA_API_KEY_HERE` in `fetch_car_details` function with your DVLA API key.
 
 ---
 
