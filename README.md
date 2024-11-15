@@ -4,6 +4,10 @@ A simple GUI application to extract license plate information from images and fe
 
 ---
 
+![ExampleCar](https://github.com/user-attachments/assets/500b3fee-3f81-4ae9-9da7-06d9d44d5a43)
+
+---
+
 ## Features
 
 - Upload images to detect license plates.
